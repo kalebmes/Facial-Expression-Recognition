@@ -1,6 +1,6 @@
 # Facial-Expression-Recognition
 
-Final Project : CS376 - Machine Learning
+Final Project : Machine Learning
 
 Human facial expressions reveal a lot of crucial, hidden, information, such as their emotional states
 and intentions. Recognizing the emotions of a person will help us understand the wishes and behavior
